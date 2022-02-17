@@ -36,7 +36,3 @@ I used to be a eletrical engineering student, but some years ago i found my self
   <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api?username=Oliv-ramon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliv-ramon&layout=compact&langs_count=7&theme=radical&count_private=true"/>
 </div>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
