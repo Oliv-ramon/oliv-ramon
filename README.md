@@ -1,4 +1,4 @@
-### Hi! I'm Ramon Oliveira 👋
+### Hi! I'm Ramon Oliveira, front-end and back-end Web Developer!
 
 - 📚 I’m currently studying to be a full-stack web developer!
 
