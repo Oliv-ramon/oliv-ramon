@@ -2,7 +2,7 @@
 
 ### About me
 
-I used to be a eletrical engineering student, but some years ago i found my self trying to build a real basic website just with HTML and CSS, and i was having more fun doing that i've never had building or learning something in college. Since then, i'm studing more about development, code, software... and every day i have more and more confidence that it's the tool that i really want to use to help people and impact their lives.
+I used to be an electrical engineering student, but some years ago i found myself trying to build an elementary website just with HTML and CSS, and i was having more fun doing than i've ever had building or learning something in college. Since then, i'm studying more about development, code, and software... and every day i have more and more confidence that it's the tool that i want to use to help people and impact their lives.
 
 - 📚 I’m currently studying to be a full-stack web developer
 - ☮️ Love food, animals, games, tv shows, animes, sports, music and be with my friends
