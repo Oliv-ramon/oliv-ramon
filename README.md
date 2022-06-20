@@ -2,7 +2,7 @@
 
 ### About me
 
-I used to be an electrical engineering student, but some years ago i found myself trying to build an elementary website just with HTML and CSS, and i was having more fun doing than i've ever had building or learning something in college. Since then, i'm studying more about development, code, and software... and every day i have more and more confidence that it's the tool that i want to use to help people and impact their lives.
+Before I had never found something to be professionally in love with, which makes me want to work and learn every day. Code that is it for me. And today, as a Full-Stack Software Engineer, I can do what I was born to do: deliver value, solve problems and make people's life easier also learn every day with that. 
 
 - 📚 I’m currently studying to be a full-stack web developer
 - ☮️ Love food, animals, games, tv shows, animes, sports, music and be with my friends
@@ -31,7 +31,6 @@ I used to be an electrical engineering student, but some years ago i found mysel
 ## Contact me
   <a href = "mailto:ramon30012000@gmail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ramon-oliveira-9903b821a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/ramonpickles/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 ## My git stats
 
