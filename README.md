@@ -4,9 +4,9 @@
 
 Before I had never found something to be professionally in love with, which makes me want to work and learn every day. Code that is it for me. And today, as a Full-Stack Software Engineer, I can do what I was born to do: deliver value, solve problems and make people's life easier also learn every day with that. 
 
-- 📚 I’m currently studying to be a full-stack web developer
+- 📚 I’m a full-stack web developer
 - ☮️ Love food, animals, games, tv shows, animes, sports, music and be with my friends
-- 💬 Ask me about ... Anything
+- 💬 Ask me about tech, fitness, or any topic above
 - ✨ Fun fact: i love to eat cookies with cold milk, for me this sounds like divine 😂
 - 😀 Pronouns: he/his/him
 
