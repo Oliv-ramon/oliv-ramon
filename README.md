@@ -51,7 +51,7 @@ Before I had never found something to be professionally in love with, which make
   
 ## My git stats
 
-<div align="center">
+<div display="flex" flex-direction="column">
   <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api?username=Oliv-ramon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliv-ramon&layout=compact&langs_count=7&theme=radical&count_private=true"/>
 </div>
