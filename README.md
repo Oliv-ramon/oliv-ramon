@@ -2,18 +2,18 @@
 
 ### About me
 
-I was an engineering student when I found myself building my first website using just HTML and CSS. At that time I already had been tasting code on the college, but never that way, putting stuff on the screen... that was magic for me!
+👨‍💻 I was an engineering student when I found myself building my first website using just HTML and CSS. At that time I already had been tasting code on the college, but never that way, putting stuff on the screen... that was magic for me!
 
-This happens in a live of driven education, they give us a taste of what we would learn in the Bootcamp. I started the Full-stack web development Bootcamp with them and since the beginning, my life has changed. 
+🚀 This happens in a live of driven education, they give us a taste of what we would learn in the Bootcamp. So I started the Full-stack web development Bootcamp with them and since the beginning, my life has changed. 
 
-Before I had never found something to be professionally in love with, which makes me want to work and learn every day. Code that is it for me. And today, as a Full-Stack Software Developer, I can do what I fell I was born to do: deliver value, solve problems and make people's life easier also learn every day with that. 
+Before I had never found something to be professionally in love with, which makes me want to work and learn every day... Now I can say Code that is it for me!!! 😁 And today, as a Full-Stack Developer, I can do what I feel I was born to do: deliver value, solve problems and make people's life easier, also learn daily with that. 
 
 ### Curiosities
 
 - 🌇 I really enjoy a beautiful landscape, mainly if it is in the sunset or have a lot of clouds (i like to watch their movement ☁️).
 - 🍪 I can eat a lot of cookies with cold milk, to me this sounds like divine 😂.
-- ☮️ Love food, animals, games, tv shows, animes, sports, music and be with my friends.
-- I leaved the parent'zhouse when i was 15... funny history
+- 🗺️ I've lived in five different states so I'm kind of a nomad.
+- 😅 I leaved the parent's house when i was 15... funny history.
 
 ## Languages and tools 🛠️
 
