@@ -14,6 +14,7 @@ Before I had never found something to be professionally in love with, which make
 - 🍪 I can eat a lot of cookies with cold milk, to me this sounds like divine 😂.
 - 🗺️ I've lived in five different states so I'm kind of a nomad.
 - 😅 I leaved the parent's house when i was 15... funny history.
+-  ☮️ I Love music but have a special feeling for 80-90's classic hits.
 
 ## Languages and tools 🛠️
 
