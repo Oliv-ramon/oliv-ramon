@@ -40,7 +40,7 @@ Before I had never found something to be professionally in love with, which make
   <img align="center" alt="Ramon-Redis" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
   <img align="center" alt="Ramon-Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
   <img align="center" alt="Ramon-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Ramon-Docker" height="50" width="60" src="https://https://github.com/Oliv-ramon/oliv-ramon/blob/main/jest.png" />
+  <img align="center" alt="Ramon-Docker" height="50" width="55" src="https://github.com/Oliv-ramon/oliv-ramon/blob/main/jest.png" />
 </div>
   
 ### Others
