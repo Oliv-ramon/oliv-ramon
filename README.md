@@ -1,24 +1,24 @@
-## Hi! I'm Ramon Oliveira, front-end and back-end Web Developer! 👋
+## Olá! Meu nome é Ramon e sou Desenvolvedor Web Full-Stack! 👋😄
 
-### About me
+### Sobre mim:
 
-👨‍💻 I was an engineering student when I found myself building my first website using just HTML and CSS. At that time I already had been tasting code on the college, but never that way, putting stuff on the screen... that was magic for me!
+👨‍💻 Eu era um estudante de engenharia elétrica quando me encontrei construindo meu primeiro site usando apenas HTML e CSS. Naquela época eu já tinha tido um contato com programação na faculdade, mas nada como aquilo, era diferente, as coisas iam aparecendo na tela...  nunca tinha me divertido tanto estudando algo, aquilo era mágico pra mim!
 
-🚀 This happens in a live of driven education, they give us a taste of what we would learn in the Bootcamp. So I started the Full-stack web development Bootcamp with them and since the beginning, my life has changed. 
+🚀 Isso aconteceu durante uma live da [Driven Education](https://www.driven.com.br/?gclid=CjwKCAjw2rmWBhB4EiwAiJ0mtYNxIem-WGBZ5ZqczRqmOxqWcnW_R_SjNyAmzjRIqbTGW_cdnjM0vhoC8e4QAvD_BwE), o propósito da live era dar um gostinho do que aprenderíamos durante o Bootcamp. Então eu iniciei a minha formação como Desenvolvedor Web Full-Stack e desde aquele dia, minha vida mudou!
 
-Before I had never found something to be professionally in love with, which makes me want to work and learn every day... Now I can say Code that is it for me!!! 😁 And today, as a Full-Stack Developer, I can do what I feel I was born to do: deliver value, solve problems and make people's life easier, also learn daily with that. 
+Antes de tudo isso, eu não tinha encontrado algo que me fizesse sentir profissionalmente apaixonado, que me motivasse todos os dias a aprender e me desenvolver como profissional... desenvolvimento é isso pra mim!!! 😁 E hoje, como Desenvolvedor Web Full-Stack, eu posso fazer o que sinto que nasci pra fazer: facilitar a vida das pessoas através da tecnologia, entregando valor e aprendendo diariamente com isso!!! 🚀
 
-### Curiosities
+### Curiosidades:
 
-- 🌇 I really enjoy a beautiful landscape, mainly if it is in the sunset or have a lot of clouds (i like to watch their movement ☁️).
-- 🍪 I can eat a lot of cookies with cold milk, to me this sounds like divine 😂.
-- 🗺️ I've lived in five different states so I'm kind of a nomad.
-- 😅 I leaved the parent's house when i was 15... funny history.
--  ☮️ I Love music but have a special feeling for 80-90's classic hits.
+- 🌇 Adoro apreciar paisagens, pricipalmente àquelas ao por do sol ou com várias nuvens (gosto de observar o movimento delas ☁️).
+- 🍪 Eu consigo comer um momente de biscoitos com leite gelado, é algo quase divino pra mim 😂.
+- 🗺️ Eu já morei em cinco estados diferentes, então eu sou tipo um nômade 😂.
+- 😅 Eu saí da casa dos meus pais quando tinha 15 anos, história engraçada, gosto de contar.
+- 🎸 Amo música no geral, mas tenho um carinho especial pelos clássicos dos anos 80-90, pricipalmente àqueles de alguma vertente do Rock com aqueles riff's de guitarra maravilhosos.
 
-## Languages and tools 🛠️
+## Linguagens e ferramentas 🛠️:
 
-### Front-end
+### Front-end:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ramon-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -31,7 +31,7 @@ Before I had never found something to be professionally in love with, which make
           
 <div> 
 
-### Back-end
+### Back-end:
 
 <div style="display: inline_block">
   <img align="center" alt="Ramon-Node" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
@@ -43,7 +43,7 @@ Before I had never found something to be professionally in love with, which make
   <img align="center" alt="Ramon-Docker" height="50" width="55" src="https://github.com/Oliv-ramon/oliv-ramon/blob/main/jest.png" />
 </div>
   
-### Others
+### Others:
   
 <div style="display: inline_block">
   <img align="center" alt="Ramon-Heroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
@@ -52,7 +52,7 @@ Before I had never found something to be professionally in love with, which make
 </div>
     
   
-## Contact me
+## Contatos:
   <a href = "mailto:ramon30012000@gmail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/-ramon-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
