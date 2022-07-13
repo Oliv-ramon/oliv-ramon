@@ -56,9 +56,5 @@ Antes de tudo isso, eu não tinha encontrado algo que me fizesse sentir profissi
   <a href = "mailto:ramon30012000@gmail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/-ramon-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-## My git stats
-
-<div display="flex" flex-direction="column">
-  <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api?username=Oliv-ramon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliv-ramon&layout=compact&langs_count=7&theme=radical&count_private=true"/>
-</div>
+## Meus Github status:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliv-ramon&show_icons=true&theme=radical&locale=pt-br)](https://github.com/Oliv-ramon/github-readme-stats)
